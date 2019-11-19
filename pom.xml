@@ -1199,8 +1199,8 @@
                 <module>features</module>
                 <module>p2-profile</module>
                 <module>distribution</module>
-                <module>integration</module>
-                <module>tooling/monitoring-dashboard</module>
+<!--                <module>integration</module>-->
+<!--                <module>tooling/monitoring-dashboard</module>-->
             </modules>
         </profile>
         <profile>
